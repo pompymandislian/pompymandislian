@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/pompymandislian](https://linktr.ee/pompymandislian)
 
-- 💬 Ask me about I'm a seasoned data practitioner with over 3 years of experience. I specialize in strategic recommendations for businesses using machine learning and data analysis. I excel in designing innovative solutions and mentoring others in data analysis. Let's innovate and make a positive impact!
-
 - 📫 How to reach me **mandispompy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
